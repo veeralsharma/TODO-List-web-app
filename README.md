@@ -6,4 +6,4 @@ to acces the webapp you can go to
 https://calm-reef-39867.herokuapp.com/
 
 
-![alt text](https://raw.githubusercontent.com/veeralsharma/TODO-List-web-app/blob/master/Capture.PNG)
+![alt text](https://github.com/veeralsharma/TODO-List-web-app/blob/master/Capture.PNG)
